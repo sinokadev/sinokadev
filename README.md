@@ -1,5 +1,5 @@
-## Hi there 👋
-<small>로 시작하는게 국룰이라고 들었어요</small>
+## Hi there 👋 
+<sub>...로 시작하는게 국룰이라고 들었어요</sub>
 
 
 Discord: u_sinokadev<br>
