@@ -1,3 +1,7 @@
+## Hi there 👋
+<small>로 시작하는게 국룰이라고 들었어요</small>
+
+
 Discord: u_sinokadev<br>
 Site: sinoka.dev<br>
 ![:name](https://count.getloli.com/@sinokadev?name=sinokadev&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
