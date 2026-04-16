@@ -1,6 +1,5 @@
-## 안녕 거기 👋 
-<sub>...로 시작하는게 국룰이라고 들었어요</sub>
-
+# 백준이 망했는데 깃헙이 대수야!
+<sub>흑흑흑 백준이 망하다니</sub>
 
 Discord: u_sinokadev  
 Site: sinoka.dev  
