@@ -1,7 +1,7 @@
 ## Github Profile Example
 <sub>????</sub>
 
-Discord: u_sinokadev  
+Discord: u_sinoka0002  
 Site: sinoka.dev  
 Email: sinoka@sinoka.dev  
 ![:name](https://count.getloli.com/@sinokadev?name=sinokadev&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
