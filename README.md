@@ -1,9 +1,5 @@
 ## SinokaDev!
 <sub>pf: https://www.pixiv.net/artworks/136884256</sub>
 
-Discord: u_sinoka0002  
-Site: sinoka.dev  
-Email: sinoka@sinoka.dev  
+sinoka.dev 
 ![:name](https://count.getloli.com/@sinokadev?name=sinokadev&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
-
-만약 저에게 깃허브로 연락하고 싶다면 [제 프로필](https://github.com/sinokadev/sinokadev)에 이슈 남겨주세요.
