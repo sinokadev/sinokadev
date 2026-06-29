@@ -1,5 +1,5 @@
-## Github Profile Example
-<sub>????</sub>
+## SinokaDev!
+<sub>pf: https://www.pixiv.net/artworks/136884256</sub>
 
 Discord: u_sinoka0002  
 Site: sinoka.dev  
